@@ -1,0 +1,9 @@
+{
+  "environments": {
+    "default": {
+      "profile": "dev",
+      "workspace_dir": "/Shared/dbx/odeko_cicd_dlt_demo",
+      "artifact_location": "dbfs:/Shared/dbx/projects/odeko_cicd_dlt_demo"
+    }
+  }
+}
